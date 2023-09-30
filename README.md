@@ -1,4 +1,4 @@
 # FirebaseStorageWithFirestore
 #### This project allows users to add products with images, images are stored in Firebase Storage, And the other details of the prodcut is stored in fireStore
-##### To view the code, switch to the `code` branch of this repository. You can find the code for this project in the [code]([https://github.com/your-username/your-repo/tree/code-branch](https://github.com/ZunairUddin/FirebaseStorageWithFirestore/tree/code)https://github.com/ZunairUddin/FirebaseStorageWithFirestore/tree/code) branch.
+To view the code, switch to the `code` branch of this repository. You can find the code for this project in the [code]([https://github.com/your-username/your-repo/tree/code-branch](https://github.com/ZunairUddin/FirebaseStorageWithFirestore/tree/code)https://github.com/ZunairUddin/FirebaseStorageWithFirestore/tree/code) branch.
 ### [Testing Link Here](https://testing-2e13b.web.app/)
