@@ -1,4 +1,4 @@
-# This project allows users to add products, which are stored using Firebase Storage, and view them on separate pages. The data is managed using Firebase Firestore.
+# This project allows users to add products with images, images are stored in Firebase Storage, And the other details of the prodcut is stored in fireStore
 
 ## DON'T FORGET TO ADD YOUR FIREBASE CONFIG IN config/firebase/FirebaseConfig.js
 
